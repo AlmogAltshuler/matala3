@@ -1,1 +1,120 @@
-{"messages": [{"datetime": "6.4.2021, 11:40", "id": 1, "text": " <\u05d4\u05de\u05d3\u05d9\u05d4 \u05dc\u05d0 \u05e0\u05db\u05dc\u05dc\u05d4>\n"}, {"datetime": "6.4.2021, 11:58", "id": 2, "text": " \u05dc\u05d9\u05d4 \u05ea\u05d2\u05d9\u05e2\ud83d\ude0d\n"}, {"datetime": "6.4.2021, 12:09", "id": 3, "text": " \u05de\u05d6\u05dc \u05d8\u05d5\u05d1, \u05d0\u05de\u05d4 \u05ea\u05d2\u05d9\u05e2\n"}, {"datetime": "6.4.2021, 12:09", "id": 1, "text": " \u05ea\u05d5\u05d3\u05d4\u2764\ufe0f\u2764\ufe0f\n"}, {"datetime": "6.4.2021, 12:23", "id": 4, "text": " \u05d0\u05e9\u05de\u05d7 \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd.  \u05dc\u05d0 \u05e8\u05d0\u05d9\u05ea\u05d9 \u05d0\u05ea \u05d4\u05d4\u05d6\u05de\u05e0\u05d4\ud83d\ude0a\n"}, {"datetime": "6.4.2021, 12:30", "id": 5, "text": " \u05d4\u05de\u05d5\u05df \u05de\u05d6\u05dc \u05d8\u05d5\u05d1 \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\n \u05dc\u05d9\u05df \u05ea\u05d2\u05d9\u05e2 \u05d1\u05e2\"\u05d4\n"}, {"datetime": "6.4.2021, 12:30", "id": 1, "text": " \u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d1\u05e0\u05d5\u05ea \u05d1 28.4 \u05d1\u05e9\u05e2\u05d4 17"}, {"datetime": "6.4.2021, 12:30", "id": 1, "text": " \ud83e\udd70\n"}, {"datetime": "6.4.2021, 14:20", "id": 6, "text": " \u05de\u05d6\u05dc \u05d8\u05d5\u05d1 \ud83c\udf89\ud83c\udf89\ud83c\udf88\ud83c\udf88\u05e0\u05d8\u05e2 \u05ea\u05d2\u05d9\u05e2\n"}, {"datetime": "6.4.2021, 14:25", "id": 7, "text": " \u05de\u05d6\u05dc \u05d8\u05d5\u05d1 \u05e2\u05dc\u05de\u05d4 \u05ea\u05d2\u05d9\u05e2\ud83d\udc93\n"}, {"datetime": "6.4.2021, 14:31", "id": 1, "text": " \ud83d\udc4d\ud83c\udffb\ud83e\udd70\ud83e\udd70\n"}, {"datetime": "6.4.2021, 14:32", "id": 8, "text": " \u05de\u05d6\u05dc \u05d8\u05d5\u05d1\ud83c\udf88\ud83c\udf88\ud83c\udf88\n \u05e8\u05d5\u05de\u05d9 \u05ea\u05d2\u05d9\u05e2\n"}, {"datetime": "6.4.2021, 14:33", "id": 9, "text": " \u05d0\u05d5\u05e8\u05d9\u05d9\u05df \u05ea\u05d2\u05d9\u05e2 \u05d1\u05e9\u05de\u05d7\u05d4 \u05de\u05d6\u05dc \u05d8\u05d5\u05d1\n"}, {"datetime": "6.4.2021, 14:45", "id": 1, "text": " \ud83d\udc4d\ud83c\udffb\ud83e\udd70\n"}, {"datetime": "6.4.2021, 14:52", "id": 4, "text": " \u05d0\u05e8\u05d1\u05dc \u05ea\u05d2\u05d9\u05e2 \u05d1\u05e9\u05de\u05d7\u05d4 \ud83c\udf88\n"}, {"datetime": "6.4.2021, 15:17", "id": 10, "text": " \u05e0\u05d8\u05e2 \u05ea\u05d2\u05d9\u05e2 \u05d1\u05e9\u05de\u05d7\u05d4\n"}, {"datetime": "6.4.2021, 15:26", "id": 1, "text": " \ud83d\udc4d\ud83c\udffb\ud83e\udd17\n"}, {"datetime": "6.4.2021, 17:14", "id": 11, "text": " \u05de\u05d6\u05dc \u05d8\u05d5\u05d1\ud83c\udf8a\ud83c\udf89\n \u05e8\u05d5\u05de\u05d9 \u05ea\u05d2\u05d9\u05e2\n"}, {"datetime": "6.4.2021, 17:48", "id": 12, "text": " \u05d2\u05d0\u05d9\u05d4 \u05ea\u05d2\u05d9\u05e2 \u05d1\u05e9\u05de\u05d7\u05d4\ud83c\udf82\n"}, {"datetime": "6.4.2021, 17:59", "id": 1, "text": " \u05ea\u05d5\u05d3\u05d4\ud83e\udd17\n"}, {"datetime": "7.4.2021, 11:56", "id": 13, "text": " \u05de\u05d9\u05d4 \u05d1\u05df \u05e9\u05d5\u05d0\u05df \u05ea\u05d2\u05d9\u05e2 \ud83d\ude01\n"}, {"datetime": "7.4.2021, 12:24", "id": 1, "text": " \ud83d\udc4d\ud83c\udffb\ud83e\udd17\n"}], "metadata": {"chat_name": "\u05d9\u05d5\u05dd \u05d4\u05d5\u05dc\u05d3\u05ea \u05d1\u05e0\u05d5\u05ea \u05dc\u05e0\u05d5\u05d9'\u05d4", "creation_date": "6.4.2021, 11:39", "num_of_participants": 13, "creator": " \u200f\u202a+972 50-255-8663\u202c\u200f\n"}}
+{
+      "messages": [
+            {
+                  "datetime": "6.4.2021, 11:40",
+                  "id": 1,
+                  "text": " <המדיה לא נכללה>\n"
+            },
+            {
+                  "datetime": "6.4.2021, 11:58",
+                  "id": 2,
+                  "text": " ליה תגיע😍\n"
+            },
+            {
+                  "datetime": "6.4.2021, 12:09",
+                  "id": 3,
+                  "text": " מזל טוב, אמה תגיע\n"
+            },
+            {
+                  "datetime": "6.4.2021, 12:09",
+                  "id": 1,
+                  "text": " תודה❤️❤️\n"
+            },
+            {
+                  "datetime": "6.4.2021, 12:23",
+                  "id": 4,
+                  "text": " אשמח לפרטים.  לא ראיתי את ההזמנה😊\n"
+            },
+            {
+                  "datetime": "6.4.2021, 12:30",
+                  "id": 5,
+                  "text": " המון מזל טוב ♥️♥️♥️\n לין תגיע בע\"ה\n"
+            },
+            {
+                  "datetime": "6.4.2021, 12:30",
+                  "id": 1,
+                  "text": " יום הולדת בנות ב 28.4 בשעה 17"
+            },
+            {
+                  "datetime": "6.4.2021, 12:30",
+                  "id": 1,
+                  "text": " 🥰\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:20",
+                  "id": 6,
+                  "text": " מזל טוב 🎉🎉🎈🎈נטע תגיע\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:25",
+                  "id": 7,
+                  "text": " מזל טוב עלמה תגיע💓\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:31",
+                  "id": 1,
+                  "text": " 👍🏻🥰🥰\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:32",
+                  "id": 8,
+                  "text": " מזל טוב🎈🎈🎈\n רומי תגיע\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:33",
+                  "id": 9,
+                  "text": " אוריין תגיע בשמחה מזל טוב\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:45",
+                  "id": 1,
+                  "text": " 👍🏻🥰\n"
+            },
+            {
+                  "datetime": "6.4.2021, 14:52",
+                  "id": 4,
+                  "text": " ארבל תגיע בשמחה 🎈\n"
+            },
+            {
+                  "datetime": "6.4.2021, 15:17",
+                  "id": 10,
+                  "text": " נטע תגיע בשמחה\n"
+            },
+            {
+                  "datetime": "6.4.2021, 15:26",
+                  "id": 1,
+                  "text": " 👍🏻🤗\n"
+            },
+            {
+                  "datetime": "6.4.2021, 17:14",
+                  "id": 11,
+                  "text": " מזל טוב🎊🎉\n רומי תגיע\n"
+            },
+            {
+                  "datetime": "6.4.2021, 17:48",
+                  "id": 12,
+                  "text": " גאיה תגיע בשמחה🎂\n"
+            },
+            {
+                  "datetime": "6.4.2021, 17:59",
+                  "id": 1,
+                  "text": " תודה🤗\n"
+            },
+            {
+                  "datetime": "7.4.2021, 11:56",
+                  "id": 13,
+                  "text": " מיה בן שואן תגיע 😁\n"
+            },
+            {
+                  "datetime": "7.4.2021, 12:24",
+                  "id": 1,
+                  "text": " 👍🏻🤗\n"
+            }
+      ],
+      "metadata": {
+            "chat_name": "יום הולדת בנות לנוי'ה",
+            "creation_date": "6.4.2021, 11:39",
+            "num_of_participants": 13,
+            "creator": " ‏‪+972 50-255-8663‬‏\n"
+      }
+}

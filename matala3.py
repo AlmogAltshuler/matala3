@@ -4,11 +4,11 @@ Created on Thu May  6 10:23:12 2021
 
 @author: almog
 """
-
+ 
 import json
 
 #Whatsapp text
-WhatsApp_Path="C:/Users/almog/Desktop/PythonMatalot/matala3/whatsapp.txt"
+WhatsApp_Path="C:/Users/almog/Desktop/PythonMatalot/matala3/files/whatsapp.txt"
 WhatsApp_text = open(WhatsApp_Path,"r",encoding= "utf-8")
 
 #Creat the message dictionary
@@ -65,8 +65,10 @@ messages_metadata_dict["metadata"]= metadata
 print(messages_metadata_dict)
 
 #Create a file with the data
-info = json.dumps(messages_metadata_dict)
 file_name=messages_metadata_dict["metadata"]["chat_name"]+".txt"
-f = open(file_name, "w")
-f.write(info)
+f = open(file_name,"w",encoding="utf8")
+info = json.dump(messages_metadata_dict,f,ensure_ascii=False,indent=6)
+f.close()
+f=open(file_name, "r",encoding="utf8")
+print(json.load(f))
 f.close()
